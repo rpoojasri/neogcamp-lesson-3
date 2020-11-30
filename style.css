@@ -115,6 +115,10 @@ hr{
    
 }
 
+.footer .footer-header{
+    font-size: larger;
+}
+
 .footer .link{
     color: white;
 }
