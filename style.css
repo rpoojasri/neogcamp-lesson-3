@@ -87,7 +87,7 @@ hr{
 }
 
 .hero .hero-heading{
-    color : var(--dark-grey);
+    color : var(--primary-color);
     padding-top : 1rem;
     text-align : center
 }
@@ -96,8 +96,9 @@ hr{
     padding :2rem;
 }
 
-.section h3{
+.section h2{
     text-align: center;
+    color: var(--dark-grey);
    
 }
 .ow{
